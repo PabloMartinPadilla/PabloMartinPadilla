@@ -3,6 +3,7 @@
 **`Student Developer`**
 
 Hi, I'm a student in the "Analista en Tecnologías de la Información" program at ORT University, currently in my final year. I am also a graduate of the "Desarrollo Web" course at JaP, where I discovered my passion for programming. Since then, I've become passionate about technology and constantly strive to improve my skills and knowledge.
+
 ---
 
 ### 🛠️ Languages and Tools

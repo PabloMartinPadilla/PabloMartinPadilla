@@ -38,5 +38,3 @@ Hi, I'm a student in the "Analista en Tecnologías de la Información" program a
 ### 🌟 Projects
 
 Check out my repositories to explore the projects I've worked on throughout these years of study, in different technologies and areas. You will find not only coding projects, but also projects related to project creation, configuration and creation of virtual machines, website deployment, and more.
-
----
